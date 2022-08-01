@@ -2,7 +2,7 @@
 
 ## Editando mau Perfil
 
-- 👋 oii, meu nome é  @douglasMarce
+- 👋 oii, meu nome é  @douglasMarcelo
 - 👀 amo ir pro shopping
 - 🌱 atualmente estou aprendendo a programar
 - 💞️ estou aprendendo a mexer na plataforma github
