@@ -5,7 +5,7 @@
 - 👋 oii, meu nome é  @douglasMarce
 - 👀 amo ir pro shopping
 - 🌱 atualmente estou aprendendo a programar
-- 💞️ atualmente aprendendo a mexer na plataforma github
+- 💞️ estou aprendendo a mexer na plataforma github
 - 📫 entre em contato comigo pelo email: d.filho@escola.pr.gov.br
 
 <!---
